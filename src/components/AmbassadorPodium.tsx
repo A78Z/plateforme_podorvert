@@ -12,7 +12,7 @@ interface Ambassadeur {
 const topDuMois: Ambassadeur[] = [
   { id: 2, nom: "Ibrahima Djigo", image: "/images/Ibrahima-Djigo.jpeg", arbres: 110 },
   { id: 1, nom: "Pathé Hanne", image: "/images/Pathe-Hanne.jpeg", arbres: 120 },
-  { id: 3, nom: "Mamadou Amadou BA", image: "/images/Mamadou-Amadou-BA.jpeg", arbres: 95 },
+   { id: 3, nom: "AMADOU DIALLO", image: "/images/Amadou-Diallo.jpeg", arbres: 95 },
 ];
 
 const AmbassadorPodium: React.FC = () => {
